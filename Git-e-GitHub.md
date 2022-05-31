@@ -24,3 +24,8 @@ E, para finalizar, eu clonei o repositório copiando o link SSH e colando o no t
 Configurei meu email e nome para sincronizar o Git com o do GitHub usando estes comandos:
 ###### $ git config --global user.email "meu email"
 ###### $ git config --global user.name "RyuunoHypon"
+Depois executei:
+###### $ git add *
+###### $ git commit -m "commit inicial"
+E, concluindo, eu finalizei usando o push, para empurrar as mudanças para o repositório:
+###### $ git push origin master
