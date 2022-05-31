@@ -27,5 +27,6 @@ Configurei meu email e nome para sincronizar o Git com o do GitHub usando estes 
 Depois executei:
 ###### $ git add *
 ###### $ git commit -m "commit inicial"
-E, concluindo, eu finalizei usando o push, para empurrar as mudanças para o repositório:
+E, concluindo, eu finalizei usando estes comandos para empurrar as mudanças para o repositório:
+###### $ git remote add origin "endereço do repositório"
 ###### $ git push origin master
